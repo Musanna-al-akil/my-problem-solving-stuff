@@ -1,0 +1,24 @@
+# Ignore input and output files
+inputf.in
+outputf.in
+
+# Ignore all compiled files
+*.out
+*.exe
+*.o
+# Ignore compiled executables (files without extensions)
+codeforce/*
+practice-contest/*
+problem-solving-YKW-cpp/*
+!codeforce/*.cpp
+!codeforce/*.in
+!practice-contest/*.cpp
+!practice-contest/*.in
+!problem-solving-YKW-cpp/*.cpp
+!problem-solving-YKW-cpp/*.in
+
+# Ignore backup files (optional)
+*.swp
+*.tmp
+
+.DS_Store
