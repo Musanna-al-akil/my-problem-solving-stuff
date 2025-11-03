@@ -10,12 +10,11 @@ outputf.in
 codeforce/*
 practice-contest/*
 problem-solving-YKW-cpp/*
+spoj/*
 !codeforce/*.cpp
-!codeforce/*.in
 !practice-contest/*.cpp
-!practice-contest/*.in
 !problem-solving-YKW-cpp/*.cpp
-!problem-solving-YKW-cpp/*.in
+!spoj/*.cpp
 
 # Ignore backup files (optional)
 *.swp
