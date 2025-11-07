@@ -11,10 +11,13 @@ codeforce/*
 practice-contest/*
 problem-solving-YKW-cpp/*
 spoj/*
+hackerrank/*
 !codeforce/*.cpp
 !practice-contest/*.cpp
 !problem-solving-YKW-cpp/*.cpp
 !spoj/*.cpp
+!hackerrank/*.cpp
+
 
 # Ignore backup files (optional)
 *.swp
