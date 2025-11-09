@@ -17,6 +17,7 @@ hackerrank/*
 !problem-solving-YKW-cpp/*.cpp
 !spoj/*.cpp
 !hackerrank/*.cpp
+test-contest/*
 
 
 # Ignore backup files (optional)
