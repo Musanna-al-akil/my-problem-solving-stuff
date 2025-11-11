@@ -13,7 +13,7 @@ bool f(int x){
     long long cp = k;
     for(int i = (n/2)+1; i<=n;i++){
         if(a[i]<x){
-            cp -= x-a[i];   
+            cp -= 1LL * x-a[i];   
         }
     }
 
