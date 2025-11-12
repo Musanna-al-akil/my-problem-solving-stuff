@@ -27,7 +27,7 @@ int main() {
     });
 
     for(auto xe: vec){
-    	cout << xe <<' ';
+    	cout << xe;
     }
     
     return 0;
