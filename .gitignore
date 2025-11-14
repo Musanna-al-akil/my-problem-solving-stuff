@@ -12,12 +12,17 @@ practice-contest/*
 problem-solving-YKW-cpp/*
 spoj/*
 hackerrank/*
+cses/*
 !codeforce/*.cpp
 !practice-contest/*.cpp
 !problem-solving-YKW-cpp/*.cpp
 !spoj/*.cpp
 !hackerrank/*.cpp
+!cses/*.cpp
+
 test-contest/*
+icpc/*
+random/*
 
 
 # Ignore backup files (optional)

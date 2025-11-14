@@ -31,7 +31,7 @@ int main() {
     	}
     	// if(sum>=s){
     		// cout << r<<endl;
-    		count += n-r+1;
+    	count += n-r+1;
     	// }
     	sum -=a[l];
     }
