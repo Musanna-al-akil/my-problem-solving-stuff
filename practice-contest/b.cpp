@@ -22,7 +22,7 @@ int main() {
     	auto a1 = s.find(">*");
     	auto a2 =  s.find("*<");
     	auto a3 = s.find("><");
-    	if(star != -1 || a1 != string::npos || a2 != string::npos || a3!= string::npos){
+    	if(star!= string::npos || a1 != string::npos || a2 != string::npos || a3!= string::npos){
     		cout << -1<<'\n';
     		continue;
     	}
