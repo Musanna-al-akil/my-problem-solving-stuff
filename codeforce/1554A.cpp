@@ -23,8 +23,6 @@ int main() {
     		mul = max((1LL*prev*cur), mul);
     		prev = cur;
     	}
-
-    	cout << 1e8<<'\n';
     }
 
     
