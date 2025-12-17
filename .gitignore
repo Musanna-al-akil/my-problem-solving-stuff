@@ -13,12 +13,14 @@ problem-solving-YKW-cpp/*
 spoj/*
 hackerrank/*
 cses/*
+atcoder/*
 !codeforce/*.cpp
 !practice-contest/*.cpp
 !problem-solving-YKW-cpp/*.cpp
 !spoj/*.cpp
 !hackerrank/*.cpp
 !cses/*.cpp
+!atcoder/*.cpp
 
 test-contest/*
 icpc/*
